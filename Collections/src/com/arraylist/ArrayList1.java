@@ -9,7 +9,7 @@ public class ArrayList1 {
 
 		ArrayList<Integer> list = new ArrayList<>();
 		//list.add(1);
-
+		
 		System.out.println("Size:: " + list.size() + "Capacity:: " + findCapacity(list));
 	}
 
